@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '5.0.7.1'
+gem 'rails'
 gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'sass-rails'
@@ -8,7 +8,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'uglifier'
 gem 'bootsnap'
 gem 'faker'
-gem 'sqlite3', '~>1.3.6'
+gem 'sqlite3'
 gem 'rails-controller-testing'
 gem 'puma'
 gem 'turbolinks'
